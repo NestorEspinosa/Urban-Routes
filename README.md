@@ -48,7 +48,6 @@ Este repositorio documenta mi participación como QA Manual en el proyecto **Urb
 - **Casos de prueba:** Visita la carpeta `/test-cases/` para ver el diseño y resultados de las pruebas manuales realizadas.
 - **Evidencia de bugs:** En `/bug-reports/` encontrarás capturas y ejemplos de errores detectados.
 - **Validación de UI:** Revisa `/design-vs-figma/` para conocer las diferencias entre el diseño original y la implementación real.
-- **Breakpoints avanzados:** Aprende cómo usé Charles Proxy en `/charles-scripts/`.
 
 ---
 
