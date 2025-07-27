@@ -1,0 +1,48 @@
+# 📘 Resumen Técnico del Proyecto – Urban Routes (QA)
+
+Nombre del Proyecto: Urban Routes  
+Tipo: Aplicación Web para planificación de rutas urbanas
+Rol: QA Manual
+
+---
+
+## 🎯 Objetivo
+
+Verificar que la interfaz y funcionalidades del sitio cumplieran con los requerimientos definidos por el equipo de diseño y desarrollo, previo al despliegue público.
+
+---
+
+## 🧪 Actividades realizadas
+
+- Análisis de requerimientos funcionales y de diseño (Figma)
+- Generación de listas de comprobación con más de 150 elementos de pruebas y casos de prueba manuales
+- Validación de UI/UX contra prototipos
+- Pruebas en navegadores y tamaños de pantalla distintos
+- Detección de bugs y errores en staging
+- Reporte en Jira con adjuntos y documentación clara
+- Uso de Charles Proxy para manipular tráfico HTTP:
+  - Simulación de respuestas
+  - Pruebas bajo condiciones anómalas
+  - Inserción de datos para validar comportamiento del frontend
+
+---
+
+## 🔧 Herramientas y Entorno
+
+- Navegadores: Chrome, Firefox¿
+- Sistema operativo: Windows 10
+- Herramientas: Figma, Jira, Charles Proxy, Google Sheets
+
+---
+
+## 🚀 Resultado
+
+El trabajo permitió estabilizar el entorno de staging, resolver errores críticos previos al deployment y mejorar la experiencia de usuario en secciones clave como login, mapa de rutas, favoritos y recomendaciones.
+
+---
+
+## 📁 Enlaces clave del repositorio
+
+- [Casos de prueba manuales](https://github.com/NestorEspinosa/Urban-Routes/test-cases/)
+- [Reporte de errores](https://github.com/NestorEspinosa/Urban-Routes/bug-reports/)
+- [Checklist de validación UI](https://github.com/NestorEspinosa/Urban-Routes//design-vs-figma/checklist-validacion.md)
