@@ -69,4 +69,3 @@ o visitar mi perfil en [LinkedIn](https://www.linkedin.com/in/nestor-espinosa)
 ---
 
 
-
