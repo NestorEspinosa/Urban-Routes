@@ -1,0 +1,50 @@
+# 🐛 Reporte de Bug
+
+**Título del Bug:**  
+Comprobar que no se puede agregar 12 números "123456_789123_" y espacios en el campo número de tarjeta.
+
+---
+
+## 📌 Información General
+
+- Fecha detectado: [DD/MM/AAAA]
+- Detectado por: Néstor Espinosa
+- Versión del sitio: [Versión o entorno, ej. staging v1.4.2]
+- Prioridad: [Alta / Media / Baja]
+- Severidad: [Crítico / Mayor / Menor / Trivial]
+- Estado actual: En progreso
+
+---
+
+## 🔁 Pasos para Reproducir
+
+1. Ir al banco de pruebas
+2. Ingresar "1917 Bay St" en el campo Desde
+3. Ingresar "615 S Broadway" en el campo Hasta
+4. Elegir el modo Personal
+5. Elegir Automóvil compartido como el tipo de transporte
+6. Hacer clic en el botón Reservar
+7. Agregar un método de pago
+
+---
+
+## ✅ Resultado Esperado
+
+No se deben poder ingresar espacios y 12 caracteres en el campo Número de tarjeta.
+
+---
+
+## ❌ Resultado Obtenido
+
+Se pueden ingresar espacios y 12 caracteres en el campo Número de tarjeta.
+
+---
+
+## 💻 Entorno de Pruebas
+
+- Navegador: Chrome
+- Versión navegador: 136.0.7103.93
+- Sistema operativo: Windows 10 Pro
+- Resolución: 1920 x 1080 px
+
+
